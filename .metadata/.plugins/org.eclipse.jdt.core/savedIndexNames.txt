@@ -1,0 +1,1 @@
+INDEX VERSION 1.132+E:\Bryan\Trabalhos\GS-2SEM-DDD\projetoClinica\.metadata\.plugins\org.eclipse.jdt.core
